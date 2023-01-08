@@ -41,7 +41,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://quantum-journal.org/papers/q-2021-03-29-422/) (2021)
 - [Expressive power of parametrized quantum circuits](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033125) (2020)
 - [Expressibility and entangling capability of parameterized quantum circuits for hybrid quantum-classical algorithms](https://arxiv.org/abs/1905.10876) (2019)
-- 
+
 
 #### Dynamics [^](#table-of-contents)
 
