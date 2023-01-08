@@ -55,7 +55,6 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/abs/2208.11060) (2022)
 - [Subtleties in the trainability of quantum machine learning models](https://arxiv.org/abs/2110.14753) (2021)
 - [The dilemma of quantum neural networks](https://arxiv.org/abs/2106.04975) (2021)
-- 
 
 #### Complexity and Learnability and Generalization [^](#table-of-contents)
 
