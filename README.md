@@ -6,14 +6,16 @@ A curated list of papers, blogs, and research publications in the field of Quant
 
 ## Table of Contents
 
+- [Reviews](#reviews-)
 - [Theory](#theory-)
-- [Quantum Reinforcement Learning]()
-- [Error Mitigation + QML]()
-- [Quantum Graph Neural Networks]()
+- [Quantum Reinforcement Learning](#quantum-reinforcement-learning-)
+- [Error Mitigation and QML](#error-mitigation-and-qml-)
 
 ---
 
 ## Contents
+
+### Reviews [^](#table-of-contents)
 
 ### Theory [^](#table-of-contents)
 
@@ -21,4 +23,3 @@ A curated list of papers, blogs, and research publications in the field of Quant
 
 ### Error Mitigation + QML [^](#table-of-contents)
 
-### Quantum Graph Neural Networks [^](#table-of-contents)
