@@ -25,6 +25,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Reviews [^](#table-of-contents)
 
+- [A Survey on Quantum Reinforcement Learning](https://arxiv.org/abs/2211.03464) (2022)
 - [Quantum computing models for artificial neural networks](https://iopscience.iop.org/article/10.1209/0295-5075/134/10002/meta) (2021)
 - [The theory of variational hybrid quantum-classical algorithms](https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023023/meta) (2016)
 
@@ -45,6 +46,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Dynamics [^](#table-of-contents)
 
+- [The Quantum Path Kernel: a Generalized Quantum Neural Tangent Kernel for Deep Quantum Machine Learning](https://arxiv.org/abs/2212.11826) (2022)
 - [An analytic theory for the dynamics of wide quantum neural networks](https://arxiv.org/abs/2203.16711) (2022)
 - [Connecting geometry and performance of two-qubit parameterized quantum circuits](https://quantum-journal.org/papers/q-2022-08-23-782/) (2022)
 - [Theory of overparametrization in quantum neural networks](https://arxiv.org/abs/2109.11676) (2021)
@@ -52,6 +54,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Trainability [^](#table-of-contents)
 
+- [Quantum variational algorithms are swamped with traps](https://www.nature.com/articles/s41467-022-35364-5) (2022)
 - [Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/abs/2208.11060) (2022)
 - [Subtleties in the trainability of quantum machine learning models](https://arxiv.org/abs/2110.14753) (2021)
 - [The dilemma of quantum neural networks](https://arxiv.org/abs/2106.04975) (2021)
@@ -97,3 +100,4 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Error Mitigation + QML [^](#table-of-contents)
 
+- [Synergetic quantum error mitigation by randomized compiling and zero-noise extrapolation for the variational quantum eigensolver](https://arxiv.org/abs/2212.11198) (2022)
