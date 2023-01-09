@@ -31,7 +31,10 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Software [^](#table-of-contents)
 
+- [Differentiable quantum computational chemistry with PennyLane](https://arxiv.org/abs/2111.09967) (2023)
+- [PennyLane: Automatic differentiation of hybrid quantum-classical computations](https://arxiv.org/abs/1811.04968) (2022)
 - [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989) (2021)
+- [Tequila: A platform for rapid development of quantum algorithms](https://arxiv.org/abs/2011.03057) (2021)
 
 ### Theory [^](#table-of-contents)
 
