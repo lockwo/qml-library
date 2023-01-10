@@ -1,6 +1,6 @@
 # Quantum Machine Learning (QML) Library
 
-A curated list of papers, blogs, and research publications in the field of Quantum Machine Learning. Inspired by the no longer updated: https://github.com/ericardomuten/qml-vqa-library. Open a PR if you want to add to it! 
+A curated list of papers, blogs, and research publications in the field of Quantum Machine Learning. Inspired by the no longer updated: https://github.com/ericardomuten/qml-vqa-library. Open a PR if you want to add to it! All links should be to open access publications. If the published version is not open access, then it will link to arXiv. If the publication is not open access and it is not on arXiv then I will not be putting it in this list.
 
 Note: the date is associated with the latest update/publication (i.e. how you would see it cited), not the first!
 
@@ -26,7 +26,14 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 ### Reviews [^](#table-of-contents)
 
 - [A Survey on Quantum Reinforcement Learning](https://arxiv.org/abs/2211.03464) (2022)
+- [Computational advantage of quantum random sampling](https://arxiv.org/abs/2206.04079) (2022)
+- [Quantum computing at the quantum advantage threshold: a down-to-business review](https://arxiv.org/abs/2203.17181) (2022)
+- [The Variational Quantum Eigensolver: A review of methods and best practices](https://www.sciencedirect.com/science/article/pii/S0370157322003118) (2022)
+- [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265) (2021)
+- [Emerging quantum computing algorithms for quantum chemistry](https://arxiv.org/abs/2109.02873) (2021)
+- [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448) (2021)
 - [Quantum computing models for artificial neural networks](https://iopscience.iop.org/article/10.1209/0295-5075/134/10002/meta) (2021)
+- [A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/) (2020)
 - [The theory of variational hybrid quantum-classical algorithms](https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023023/meta) (2016)
 
 ### Software [^](#table-of-contents)
@@ -54,13 +61,17 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Connecting geometry and performance of two-qubit parameterized quantum circuits](https://quantum-journal.org/papers/q-2022-08-23-782/) (2022)
 - [Theory of overparametrization in quantum neural networks](https://arxiv.org/abs/2109.11676) (2021)
 - [The Inductive Bias of Quantum Kernels](https://proceedings.neurips.cc/paper/2021/hash/69adc1e107f7f7d035d7baf04342e1ca-Abstract.html) (2021)
+- [Characterizing the loss landscape of variational quantum circuits](https://arxiv.org/abs/2008.02785) (2021)
 
 #### Trainability [^](#table-of-contents)
 
 - [Quantum variational algorithms are swamped with traps](https://www.nature.com/articles/s41467-022-35364-5) (2022)
 - [Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/abs/2208.11060) (2022)
+- [Equivalence of quantum barren plateaus to cost concentration and narrow gorges](https://arxiv.org/abs/2104.05868) (2022)
 - [Subtleties in the trainability of quantum machine learning models](https://arxiv.org/abs/2110.14753) (2021)
 - [The dilemma of quantum neural networks](https://arxiv.org/abs/2106.04975) (2021)
+- [Absence of Barren Plateaus in Quantum Convolutional Neural Networks](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041011) (2021)
+- [On barren plateaus and cost function locality in variational quantum algorithms](https://arxiv.org/abs/2011.10530) (2021)
 
 #### Complexity and Learnability and Generalization [^](#table-of-contents)
 
