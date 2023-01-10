@@ -88,7 +88,11 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 - [An Empirical Review of Optimization Techniques for Quantum Variational Circuits](https://arxiv.org/abs/2202.01389) (2022)
 - [Optimizing Quantum Variational Circuits with Deep Reinforcement Learning](https://arxiv.org/abs/2109.03188) (2022)
+- [Optimizing quantum circuits with Riemannian gradient flow](https://arxiv.org/abs/2202.06976) (2022)
 - [Single-component gradient rules for variational quantum algorithms](https://arxiv.org/abs/2106.01388) (2021)
+- [Natural Gradient Optimization for Optical Quantum Circuits](https://arxiv.org/abs/2106.13660) (2021)
+- [Simultaneous Perturbation Stochastic Approximation of the Quantum Fisher Information](https://quantum-journal.org/papers/q-2021-10-20-567/) (2021)
+- [Natural evolutionary strategies for variational quantum computation](https://iopscience.iop.org/article/10.1088/2632-2153/abf3ac/meta) (2021)
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 - [Quantum policy gradient algorithms](https://arxiv.org/abs/2212.09328) (2022)
@@ -115,3 +119,4 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 ### Error Mitigation + QML [^](#table-of-contents)
 
 - [Synergetic quantum error mitigation by randomized compiling and zero-noise extrapolation for the variational quantum eigensolver](https://arxiv.org/abs/2212.11198) (2022)
+- [Can Error Mitigation Improve Trainability of Noisy Variational Quantum Algorithms?](https://arxiv.org/abs/2109.01051) (2021)
