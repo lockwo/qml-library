@@ -16,7 +16,15 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
   - [Trainability](#trainability-)
   - [Complexity and Learnability and Generalization](#complexity-and-learnability-and-generalization-)
 - [Optimization](#optimization-)
+- [Circuit Ansatz](#circuit-ansatz-)
 - [Quantum Reinforcement Learning](#quantum-reinforcement-learning-)
+- [Geometric QML](#geometric-qml-)
+- [Generative QML](#generative-qml-)
+- [Autoencoders](#autoencoders-)
+- [QAOA](#qaoa-)
+- [VQE](#vqe-)
+- [Quantum Simulation](#quantum-simulation-)
+- [Classification](#classification-)
 - [Error Mitigation and QML](#error-mitigation-and-qml-)
 
 ---
@@ -42,6 +50,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [PennyLane: Automatic differentiation of hybrid quantum-classical computations](https://arxiv.org/abs/1811.04968) (2022)
 - [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989) (2021)
 - [Tequila: A platform for rapid development of quantum algorithms](https://arxiv.org/abs/2011.03057) (2021)
+- [ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms](https://arxiv.org/abs/2111.04695) (2021)
+
 
 ### Theory [^](#table-of-contents)
 
@@ -89,10 +99,17 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [An Empirical Review of Optimization Techniques for Quantum Variational Circuits](https://arxiv.org/abs/2202.01389) (2022)
 - [Optimizing Quantum Variational Circuits with Deep Reinforcement Learning](https://arxiv.org/abs/2109.03188) (2022)
 - [Optimizing quantum circuits with Riemannian gradient flow](https://arxiv.org/abs/2202.06976) (2022)
+- [Variational quantum algorithm with information sharing](https://www.nature.com/articles/s41534-021-00452-9) (2021)
 - [Single-component gradient rules for variational quantum algorithms](https://arxiv.org/abs/2106.01388) (2021)
 - [Natural Gradient Optimization for Optical Quantum Circuits](https://arxiv.org/abs/2106.13660) (2021)
 - [Simultaneous Perturbation Stochastic Approximation of the Quantum Fisher Information](https://quantum-journal.org/papers/q-2021-10-20-567/) (2021)
 - [Natural evolutionary strategies for variational quantum computation](https://iopscience.iop.org/article/10.1088/2632-2153/abf3ac/meta) (2021)
+
+### Circuit Ansatz [^](#table-of-contents) 
+
+- [Mixer-phaser Ansätze for quantum optimization with hard constraints](https://link.springer.com/article/10.1007/s42484-022-00069-x) (2022)
+- [A semi-agnostic ansatz with variable structure for quantum machine learning](https://arxiv.org/abs/2103.06712) (2022)
+- [Quantum Deformed Neural Networks](https://arxiv.org/abs/2010.11189) (2020)
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 - [Quantum policy gradient algorithms](https://arxiv.org/abs/2212.09328) (2022)
@@ -115,6 +132,43 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Variational Quantum Circuits for Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9144562) (2020)
 - [Reinforcement Learning with Quantum Variational Circuits](https://ojs.aaai.org/index.php/AIIDE/article/view/7437) (2020)
 - [Reinforcement Learning with Deep Quantum Neural Networks](https://www.scirp.org/html/1-1300264_90994.htm?pagespeed=noscript) (2019)
+
+### Geometric QML [^](#table-of-contents)
+
+- [Exploiting symmetry in variational quantum machine learning](https://arxiv.org/abs/2205.06217) (2022)
+
+### Generative QML [^](#table-of-contents)
+
+- [Style-based quantum generative adversarial networks for Monte Carlo events](https://quantum-journal.org/papers/q-2022-08-17-777/) (2022)
+- [Anomaly detection with variational quantum generative adversarial networks](https://arxiv.org/abs/2010.10492) (2021)
+
+### Autoencoders [^](#table-of-contents)
+
+- [On exploring practical potentials of quantum auto-encoder with advantages](https://arxiv.org/abs/2106.15432) (2021)
+- [Quantum autoencoders with enhanced data encoding](https://arxiv.org/abs/2010.06599) (2021)
+
+### QAOA [^](#table-of-contents)
+
+- [Quantum annealing initialization of the quantum approximate optimization algorithm](https://quantum-journal.org/papers/q-2021-07-01-491/) (2021)
+- [Training Saturation in Layerwise Quantum Approximate Optimisation](https://arxiv.org/abs/2106.13814) (2021)
+
+### VQE [^](#table-of-contents)
+
+- [Contextual Subspace Variational Quantum Eigensolver](https://quantum-journal.org/papers/q-2021-05-14-456/) (2021)
+
+### Quantum Simulation [^](#table-of-contents)
+
+- [Noise-assisted variational quantum thermalization](https://www.nature.com/articles/s41598-022-07296-z) (2022)
+- [Extending the Variational Quantum Eigensolver to Finite Temperatures](https://arxiv.org/abs/2208.07621) (2022)
+- [Simulating hydrodynamics on noisy intermediate-scale quantum devices with random circuits](https://arxiv.org/abs/2012.02795) (2021)
+- [An efficient quantum algorithm for the time evolution of parameterized circuits](https://quantum-journal.org/papers/q-2021-07-28-512/) (2021)
+- [Variational quantum algorithm for molecular geometry optimization](https://arxiv.org/abs/2106.13840) (2021)
+- [Simulating Many-Body Systems with a Projective Quantum Eigensolver](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.030301) (2021)
+
+### Classification [^](#table-of-contents)
+
+- [VSQL: Variational Shadow Quantum Learning for Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17016) (2021)
+- [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633) (2018)
 
 ### Error Mitigation + QML [^](#table-of-contents)
 
