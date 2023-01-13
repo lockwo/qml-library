@@ -141,6 +141,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 - [Style-based quantum generative adversarial networks for Monte Carlo events](https://quantum-journal.org/papers/q-2022-08-17-777/) (2022)
 - [Anomaly detection with variational quantum generative adversarial networks](https://arxiv.org/abs/2010.10492) (2021)
+- [Experimental Quantum Generative Adversarial Networks for Image Generation](https://arxiv.org/abs/2010.06201) (2021)
 
 ### Autoencoders [^](#table-of-contents)
 
