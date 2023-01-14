@@ -125,6 +125,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Quantum agents in the Gym: a variational quantum algorithm for deep Q-learning](https://quantum-journal.org/papers/q-2022-05-24-720/) (2022)
 - [Equivariant quantum circuits for learning on weighted graphs](https://arxiv.org/abs/2205.06109) (2022)
 - [Quantum reinforcement learning in continuous action space](https://arxiv.org/abs/2012.10711) (2021)
+- [Experimental quantum speed-up in reinforcement learning agents](https://arxiv.org/abs/2103.06294) (2021)
 - [Parametrized Quantum Policies for Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/eec96a7f788e88184c0e713456026f3f-Abstract.html) (2021)
 - [Variational Quantum Soft Actor-Critic](https://arxiv.org/abs/2112.11921) (2021)
 - [Photonic Quantum Policy Learning in OpenAI Gym](https://arxiv.org/abs/2108.12926) (2021)
@@ -140,6 +141,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 ### Generative QML [^](#table-of-contents)
 
 - [Style-based quantum generative adversarial networks for Monte Carlo events](https://quantum-journal.org/papers/q-2022-08-17-777/) (2022)
+- [Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031010) (2022)
 - [Anomaly detection with variational quantum generative adversarial networks](https://arxiv.org/abs/2010.10492) (2021)
 - [Experimental Quantum Generative Adversarial Networks for Image Generation](https://arxiv.org/abs/2010.06201) (2021)
 
@@ -168,7 +170,9 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Classification [^](#table-of-contents)
 
+- [Quantum Methods for Neural Networks and Application to Medical Image Classification](https://quantum-journal.org/papers/q-2022-12-22-881/) (2022)
 - [VSQL: Variational Shadow Quantum Learning for Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17016) (2021)
+- [Nearest centroid classification on a trapped ion quantum computer](https://www.nature.com/articles/s41534-021-00456-5) (2021)
 - [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633) (2018)
 
 ### Error Mitigation + QML [^](#table-of-contents)
