@@ -33,6 +33,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Reviews [^](#table-of-contents)
 
+- [Quantum Machine Learning: from physics to software engineering](https://arxiv.org/abs/2301.01851) (2023)
 - [A Survey on Quantum Reinforcement Learning](https://arxiv.org/abs/2211.03464) (2022)
 - [Computational advantage of quantum random sampling](https://arxiv.org/abs/2206.04079) (2022)
 - [Quantum computing at the quantum advantage threshold: a down-to-business review](https://arxiv.org/abs/2203.17181) (2022)
@@ -97,6 +98,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 ### Optimization [^](#table-of-contents)
 
 - [An Empirical Review of Optimization Techniques for Quantum Variational Circuits](https://arxiv.org/abs/2202.01389) (2022)
+- [Markov chain Monte Carlo enhanced variational quantum algorithms](https://iopscience.iop.org/article/10.1088/2058-9565/aca821/meta) (2022)
 - [Optimizing Quantum Variational Circuits with Deep Reinforcement Learning](https://arxiv.org/abs/2109.03188) (2022)
 - [Optimizing quantum circuits with Riemannian gradient flow](https://arxiv.org/abs/2202.06976) (2022)
 - [Variational quantum algorithm with information sharing](https://www.nature.com/articles/s41534-021-00452-9) (2021)
@@ -104,12 +106,14 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Natural Gradient Optimization for Optical Quantum Circuits](https://arxiv.org/abs/2106.13660) (2021)
 - [Simultaneous Perturbation Stochastic Approximation of the Quantum Fisher Information](https://quantum-journal.org/papers/q-2021-10-20-567/) (2021)
 - [Natural evolutionary strategies for variational quantum computation](https://iopscience.iop.org/article/10.1088/2632-2153/abf3ac/meta) (2021)
+- [Learning to learn with quantum neural networks via classical neural networks](https://arxiv.org/abs/1907.05415) (2019)
 
 ### Circuit Ansatz [^](#table-of-contents) 
 
 - [Mixer-phaser Ansätze for quantum optimization with hard constraints](https://link.springer.com/article/10.1007/s42484-022-00069-x) (2022)
 - [A semi-agnostic ansatz with variable structure for quantum machine learning](https://arxiv.org/abs/2103.06712) (2022)
 - [Quantum Deformed Neural Networks](https://arxiv.org/abs/2010.11189) (2020)
+- [Quantum Convolutional Neural Networks](https://arxiv.org/abs/1810.03787) (2019)
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 - [Quantum policy gradient algorithms](https://arxiv.org/abs/2212.09328) (2022)
@@ -172,10 +176,13 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 - [Quantum Methods for Neural Networks and Application to Medical Image Classification](https://quantum-journal.org/papers/q-2022-12-22-881/) (2022)
 - [VSQL: Variational Shadow Quantum Learning for Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17016) (2021)
+- [Machine learning of high dimensional data on a noisy quantum processor](https://www.nature.com/articles/s41534-021-00498-9) (2021)
+- [Single-qubit universal classifier implemented on an ion-trap quantum device](https://arxiv.org/abs/2106.14059) (2021)
 - [Nearest centroid classification on a trapped ion quantum computer](https://www.nature.com/articles/s41534-021-00456-5) (2021)
 - [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633) (2018)
 
 ### Error Mitigation + QML [^](#table-of-contents)
 
 - [Synergetic quantum error mitigation by randomized compiling and zero-noise extrapolation for the variational quantum eigensolver](https://arxiv.org/abs/2212.11198) (2022)
+- [Experimental error mitigation using linear rescaling for variational quantum eigensolving with up to 20 qubits](https://arxiv.org/abs/2106.01264) (2021)
 - [Can Error Mitigation Improve Trainability of Noisy Variational Quantum Algorithms?](https://arxiv.org/abs/2109.01051) (2021)
