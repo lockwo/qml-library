@@ -47,6 +47,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Software [^](#table-of-contents)
 
+- [TeD-Q: a tensor network enhanced distributed hybrid quantum machine learning framework](https://arxiv.org/abs/2301.05451) (2023)
 - [Differentiable quantum computational chemistry with PennyLane](https://arxiv.org/abs/2111.09967) (2023)
 - [PennyLane: Automatic differentiation of hybrid quantum-classical computations](https://arxiv.org/abs/1811.04968) (2022)
 - [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989) (2021)
@@ -116,6 +117,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Quantum Convolutional Neural Networks](https://arxiv.org/abs/1810.03787) (2019)
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
+
+- [Asynchronous training of quantum reinforcement learning](https://arxiv.org/abs/2301.05096) (2023)
 - [Quantum policy gradient algorithms](https://arxiv.org/abs/2212.09328) (2022)
 - [Robustness of quantum reinforcement learning under hardware errors](https://arxiv.org/abs/2212.09431) (2022)
 - [Quantum Policy Gradient Algorithm with Optimized Action Decoding](https://arxiv.org/abs/2212.06663) (2022)
@@ -165,6 +168,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Simulation [^](#table-of-contents)
 
+- [Physics Simulation Via Quantum Graph Neural Network](https://arxiv.org/abs/2301.04702) (2023)
 - [Noise-assisted variational quantum thermalization](https://www.nature.com/articles/s41598-022-07296-z) (2022)
 - [Extending the Variational Quantum Eigensolver to Finite Temperatures](https://arxiv.org/abs/2208.07621) (2022)
 - [Simulating hydrodynamics on noisy intermediate-scale quantum devices with random circuits](https://arxiv.org/abs/2012.02795) (2021)
