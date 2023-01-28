@@ -74,6 +74,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Theory of overparametrization in quantum neural networks](https://arxiv.org/abs/2109.11676) (2021)
 - [The Inductive Bias of Quantum Kernels](https://proceedings.neurips.cc/paper/2021/hash/69adc1e107f7f7d035d7baf04342e1ca-Abstract.html) (2021)
 - [Characterizing the loss landscape of variational quantum circuits](https://arxiv.org/abs/2008.02785) (2021)
+- [Noise-induced barren plateaus in variational quantum algorithms](https://www.nature.com/articles/s41467-021-27045-6) (2021)
 
 #### Trainability [^](#table-of-contents)
 
@@ -185,7 +186,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Nearest centroid classification on a trapped ion quantum computer](https://www.nature.com/articles/s41534-021-00456-5) (2021)
 - [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633) (2018)
 
-### Error Mitigation + QML [^](#table-of-contents)
+### Error Mitigation and QML [^](#table-of-contents)
 
 - [Synergetic quantum error mitigation by randomized compiling and zero-noise extrapolation for the variational quantum eigensolver](https://arxiv.org/abs/2212.11198) (2022)
 - [Experimental error mitigation using linear rescaling for variational quantum eigensolving with up to 20 qubits](https://arxiv.org/abs/2106.01264) (2021)
