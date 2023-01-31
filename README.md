@@ -148,6 +148,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Generative QML [^](#table-of-contents)
 
+- [A performance characterization of quantum generative models](https://arxiv.org/abs/2301.09363) (2023)
 - [Style-based quantum generative adversarial networks for Monte Carlo events](https://quantum-journal.org/papers/q-2022-08-17-777/) (2022)
 - [Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031010) (2022)
 - [Anomaly detection with variational quantum generative adversarial networks](https://arxiv.org/abs/2010.10492) (2021)
@@ -160,11 +161,14 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### QAOA [^](#table-of-contents)
 
+- [Information scrambling and entanglement in quantum approximate optimization algorithm circuits](https://arxiv.org/abs/2301.07445) (2023)
+- [Fermionic Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2301.10756) (2023)
 - [Quantum annealing initialization of the quantum approximate optimization algorithm](https://quantum-journal.org/papers/q-2021-07-01-491/) (2021)
 - [Training Saturation in Layerwise Quantum Approximate Optimisation](https://arxiv.org/abs/2106.13814) (2021)
 
 ### VQE [^](#table-of-contents)
 
+- [Symmetry enhanced variational quantum spin eigensolver](https://quantum-journal.org/papers/q-2023-01-19-899/) (2023)
 - [Contextual Subspace Variational Quantum Eigensolver](https://quantum-journal.org/papers/q-2021-05-14-456/) (2021)
 
 ### Quantum Simulation [^](#table-of-contents)
