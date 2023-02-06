@@ -173,6 +173,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Simulation [^](#table-of-contents)
 
+- [Simulating Majorana zero modes on a noisy quantum processor](https://iopscience.iop.org/article/10.1088/2058-9565/acb796/meta) (2023)
 - [Physics Simulation Via Quantum Graph Neural Network](https://arxiv.org/abs/2301.04702) (2023)
 - [Noise-assisted variational quantum thermalization](https://www.nature.com/articles/s41598-022-07296-z) (2022)
 - [Extending the Variational Quantum Eigensolver to Finite Temperatures](https://arxiv.org/abs/2208.07621) (2022)
