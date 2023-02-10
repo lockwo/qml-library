@@ -59,6 +59,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Expressivity [^](#table-of-contents)
 
+- [Contextuality and inductive bias in quantum machine learning](https://arxiv.org/abs/2302.01365) (2023)
 - [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
 - [Expressibility of the alternating layered ansatz for quantum computation](https://quantum-journal.org/papers/q-2021-04-19-434/) (2021)
 - [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://quantum-journal.org/papers/q-2021-03-29-422/) (2021)
@@ -112,6 +113,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Circuit Ansatz [^](#table-of-contents) 
 
+- [GA4QCO: Genetic Algorithm for Quantum Circuit Optimization](https://arxiv.org/abs/2302.01303) (2023)
 - [Mixer-phaser Ansätze for quantum optimization with hard constraints](https://link.springer.com/article/10.1007/s42484-022-00069-x) (2022)
 - [A semi-agnostic ansatz with variable structure for quantum machine learning](https://arxiv.org/abs/2103.06712) (2022)
 - [Quantum Deformed Neural Networks](https://arxiv.org/abs/2010.11189) (2020)
