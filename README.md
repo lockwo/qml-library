@@ -82,7 +82,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 #### Trainability [^](#table-of-contents)
 
 - [Trainability Enhancement of Parameterized Quantum Circuits via Reduced-Domain Parameter Initialization](https://arxiv.org/abs/2302.06858) (2023)
-- [Efficient estimation of trainability for variational quantum circuits](Efficient estimation of trainability for variational quantum circuits) (2023)
+- [Efficient estimation of trainability for variational quantum circuits](https://arxiv.org/abs/2302.04649) (2023)
 - [Quantum variational algorithms are swamped with traps](https://www.nature.com/articles/s41467-022-35364-5) (2022)
 - [Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/abs/2208.11060) (2022)
 - [Equivalence of quantum barren plateaus to cost concentration and narrow gorges](https://arxiv.org/abs/2104.05868) (2022)
