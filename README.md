@@ -33,6 +33,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Reviews [^](#table-of-contents)
 
+- [Optimization Applications as Quantum Performance Benchmarks](https://arxiv.org/abs/2302.02278) (2023)
+- [Quantum Computing Toolkit From Nuts and Bolts to Sack of Tools](https://arxiv.org/abs/2302.08884) (2023)
 - [Quantum Machine Learning: from physics to software engineering](https://arxiv.org/abs/2301.01851) (2023)
 - [A Survey on Quantum Reinforcement Learning](https://arxiv.org/abs/2211.03464) (2022)
 - [Computational advantage of quantum random sampling](https://arxiv.org/abs/2206.04079) (2022)
@@ -79,6 +81,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Trainability [^](#table-of-contents)
 
+- [Trainability Enhancement of Parameterized Quantum Circuits via Reduced-Domain Parameter Initialization](https://arxiv.org/abs/2302.06858) (2023)
+- [Efficient estimation of trainability for variational quantum circuits](Efficient estimation of trainability for variational quantum circuits) (2023)
 - [Quantum variational algorithms are swamped with traps](https://www.nature.com/articles/s41467-022-35364-5) (2022)
 - [Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/abs/2208.11060) (2022)
 - [Equivalence of quantum barren plateaus to cost concentration and narrow gorges](https://arxiv.org/abs/2104.05868) (2022)
@@ -113,6 +117,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Circuit Ansatz [^](#table-of-contents) 
 
+- [Hamiltonian variational ansatz without barren plateaus](https://arxiv.org/abs/2302.08529) (2023)
 - [GA4QCO: Genetic Algorithm for Quantum Circuit Optimization](https://arxiv.org/abs/2302.01303) (2023)
 - [Mixer-phaser Ansätze for quantum optimization with hard constraints](https://link.springer.com/article/10.1007/s42484-022-00069-x) (2022)
 - [A semi-agnostic ansatz with variable structure for quantum machine learning](https://arxiv.org/abs/2103.06712) (2022)
@@ -121,6 +126,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Quantum algorithms applied to satellite mission planning for Earth observation](https://arxiv.org/abs/2302.07181) (2023)
+- [Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning](https://arxiv.org/abs/2302.08617) (2023)
 - [Asynchronous training of quantum reinforcement learning](https://arxiv.org/abs/2301.05096) (2023)
 - [Quantum policy gradient algorithms](https://arxiv.org/abs/2212.09328) (2022)
 - [Robustness of quantum reinforcement learning under hardware errors](https://arxiv.org/abs/2212.09431) (2022)
@@ -175,6 +182,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Simulation [^](#table-of-contents)
 
+- [Quantum simulation of battery materials using ionic pseudopotentials](https://arxiv.org/abs/2302.07981) (2023)
 - [Simulating Majorana zero modes on a noisy quantum processor](https://iopscience.iop.org/article/10.1088/2058-9565/acb796/meta) (2023)
 - [Physics Simulation Via Quantum Graph Neural Network](https://arxiv.org/abs/2301.04702) (2023)
 - [Noise-assisted variational quantum thermalization](https://www.nature.com/articles/s41598-022-07296-z) (2022)
