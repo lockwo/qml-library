@@ -159,6 +159,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Generative QML [^](#table-of-contents)
 
+- [Generative Invertible Quantum Neural Networks](https://arxiv.org/abs/2302.12906) (2023)
 - [A performance characterization of quantum generative models](https://arxiv.org/abs/2301.09363) (2023)
 - [Style-based quantum generative adversarial networks for Monte Carlo events](https://quantum-journal.org/papers/q-2022-08-17-777/) (2022)
 - [Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031010) (2022)
