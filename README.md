@@ -197,6 +197,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Classification [^](#table-of-contents)
 
+- [Practical overview of image classification with tensor-network quantum circuits](https://www.nature.com/articles/s41598-023-30258-y) (2023)
 - [Quantum Methods for Neural Networks and Application to Medical Image Classification](https://quantum-journal.org/papers/q-2022-12-22-881/) (2022)
 - [VSQL: Variational Shadow Quantum Learning for Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17016) (2021)
 - [Machine learning of high dimensional data on a noisy quantum processor](https://www.nature.com/articles/s41534-021-00498-9) (2021)
