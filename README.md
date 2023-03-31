@@ -33,6 +33,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Reviews [^](#table-of-contents)
 
+- [A Survey of Quantum Alternatives to Randomized Algorithms: Monte Carlo Integration and Beyond](https://arxiv.org/abs/2303.04945v1) (2023)
+- [Variational Benchmarks for Quantum Many-Body Problems](https://arxiv.org/abs/2302.04919) (2023)
 - [Optimization Applications as Quantum Performance Benchmarks](https://arxiv.org/abs/2302.02278) (2023)
 - [Quantum Computing Toolkit From Nuts and Bolts to Sack of Tools](https://arxiv.org/abs/2302.08884) (2023)
 - [Quantum Machine Learning: from physics to software engineering](https://arxiv.org/abs/2301.01851) (2023)
@@ -72,6 +74,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Dynamics [^](#table-of-contents)
 
+- [Effects of noise on the overparametrization of quantum neural networks](https://arxiv.org/abs/2302.05059) (2023)
 - [The Quantum Path Kernel: a Generalized Quantum Neural Tangent Kernel for Deep Quantum Machine Learning](https://arxiv.org/abs/2212.11826) (2022)
 - [An analytic theory for the dynamics of wide quantum neural networks](https://arxiv.org/abs/2203.16711) (2022)
 - [Connecting geometry and performance of two-qubit parameterized quantum circuits](https://quantum-journal.org/papers/q-2022-08-23-782/) (2022)
@@ -120,6 +123,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 - [Hamiltonian variational ansatz without barren plateaus](https://arxiv.org/abs/2302.08529) (2023)
 - [GA4QCO: Genetic Algorithm for Quantum Circuit Optimization](https://arxiv.org/abs/2302.01303) (2023)
+- [Policy Gradient Approach to Compilation of Variational Quantum Circuits](https://arxiv.org/abs/2111.10227) (2022)
 - [Mixer-phaser Ansätze for quantum optimization with hard constraints](https://link.springer.com/article/10.1007/s42484-022-00069-x) (2022)
 - [A semi-agnostic ansatz with variable structure for quantum machine learning](https://arxiv.org/abs/2103.06712) (2022)
 - [Quantum Deformed Neural Networks](https://arxiv.org/abs/2010.11189) (2020)
@@ -175,6 +179,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 - [Information scrambling and entanglement in quantum approximate optimization algorithm circuits](https://arxiv.org/abs/2301.07445) (2023)
 - [Fermionic Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2301.10756) (2023)
+- [Scaling of the quantum approximate optimization algorithm on superconducting qubit based hardware](https://arxiv.org/abs/2202.03459) (2022)
 - [Quantum annealing initialization of the quantum approximate optimization algorithm](https://quantum-journal.org/papers/q-2021-07-01-491/) (2021)
 - [Training Saturation in Layerwise Quantum Approximate Optimisation](https://arxiv.org/abs/2106.13814) (2021)
 
