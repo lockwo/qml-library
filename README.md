@@ -51,6 +51,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Software [^](#table-of-contents)
 
+- [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
 - [Hierarchical architecture representations for quantum convolutional neural networks](https://arxiv.org/abs/2210.15073) (2023)
 - [TeD-Q: a tensor network enhanced distributed hybrid quantum machine learning framework](https://arxiv.org/abs/2301.05451) (2023)
 - [Differentiable quantum computational chemistry with PennyLane](https://arxiv.org/abs/2111.09967) (2023)
