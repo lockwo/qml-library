@@ -132,6 +132,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Quantum Imitation Learning](https://arxiv.org/abs/2304.02480) (2023)
 - [Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret](https://arxiv.org/abs/2302.10796) (2023)
 - [Quantum algorithms applied to satellite mission planning for Earth observation](https://arxiv.org/abs/2302.07181) (2023)
 - [Quantum Computing Provides Exponential Regret Improvement in Episodic Reinforcement Learning](https://arxiv.org/abs/2302.08617) (2023)
