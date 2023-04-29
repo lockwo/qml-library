@@ -132,6 +132,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2304.13571) (2023)
 - [Quantum deep Q learning with distributed prioritized experience replay](https://arxiv.org/abs/2304.09648) (2023)
 - [Quantum Imitation Learning](https://arxiv.org/abs/2304.02480) (2023)
 - [Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret](https://arxiv.org/abs/2302.10796) (2023)
@@ -166,6 +167,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Generative QML [^](#table-of-contents)
 
+- [A Framework for Demonstrating Practical Quantum Advantage: Racing Quantum against Classical Generative Models](https://arxiv.org/abs/2303.15626) (2023)
 - [Generative Invertible Quantum Neural Networks](https://arxiv.org/abs/2302.12906) (2023)
 - [A performance characterization of quantum generative models](https://arxiv.org/abs/2301.09363) (2023)
 - [Style-based quantum generative adversarial networks for Monte Carlo events](https://quantum-journal.org/papers/q-2022-08-17-777/) (2022)
