@@ -23,6 +23,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Autoencoders](#autoencoders-)
 - [QAOA](#qaoa-)
 - [VQE](#vqe-)
+- [Computational Physics](#computational-physics-)
 - [Quantum Simulation](#quantum-simulation-)
 - [Classification](#classification-)
 - [Error Mitigation and QML](#error-mitigation-and-qml-)
@@ -132,6 +133,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Batch Quantum Reinforcement Learning](https://arxiv.org/abs/2305.00905) (2023)
 - [Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2304.13571) (2023)
 - [Quantum deep Q learning with distributed prioritized experience replay](https://arxiv.org/abs/2304.09648) (2023)
 - [Quantum Imitation Learning](https://arxiv.org/abs/2304.02480) (2023)
@@ -193,8 +195,15 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Symmetry enhanced variational quantum spin eigensolver](https://quantum-journal.org/papers/q-2023-01-19-899/) (2023)
 - [Contextual Subspace Variational Quantum Eigensolver](https://quantum-journal.org/papers/q-2021-05-14-456/) (2021)
 
-### Quantum Simulation [^](#table-of-contents)
 
+### Computational Physics [^](#table-of-contents)
+
+- [Quantum Generative Adversarial Networks For Anomaly Detection In High Energy Physics](https://arxiv.org/abs/2304.14439) (2023)
+
+
+### Quantum Simulation/Chemistry [^](#table-of-contents)
+
+- [Application of quantum-inspired generative models to small molecular datasets](https://arxiv.org/abs/2304.10867) (2023)
 - [Quantum simulation of battery materials using ionic pseudopotentials](https://arxiv.org/abs/2302.07981) (2023)
 - [Simulating Majorana zero modes on a noisy quantum processor](https://iopscience.iop.org/article/10.1088/2058-9565/acb796/meta) (2023)
 - [Physics Simulation Via Quantum Graph Neural Network](https://arxiv.org/abs/2301.04702) (2023)
