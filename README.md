@@ -76,6 +76,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Dynamics [^](#table-of-contents)
 
+- [Deep quantum neural networks form Gaussian processes](https://arxiv.org/abs/2305.09957) (2023)
+- [Deep Quantum Neural Networks are Gaussian Process](https://arxiv.org/abs/2305.12664) (2023)
 - [Effects of noise on the overparametrization of quantum neural networks](https://arxiv.org/abs/2302.05059) (2023)
 - [The Quantum Path Kernel: a Generalized Quantum Neural Tangent Kernel for Deep Quantum Machine Learning](https://arxiv.org/abs/2212.11826) (2022)
 - [An analytic theory for the dynamics of wide quantum neural networks](https://arxiv.org/abs/2203.16711) (2022)
@@ -87,6 +89,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Trainability [^](#table-of-contents)
 
+- [The Unified Effect of Data Encoding, Ansatz Expressibility and Entanglement on the Trainability of HQNNs](https://arxiv.org/abs/2305.04504) (2023)
 - [Trainability barriers and opportunities in quantum generative modeling](https://arxiv.org/abs/2305.02881) (2023)
 - [Trainability Enhancement of Parameterized Quantum Circuits via Reduced-Domain Parameter Initialization](https://arxiv.org/abs/2302.06858) (2023)
 - [Efficient estimation of trainability for variational quantum circuits](https://arxiv.org/abs/2302.04649) (2023)
@@ -100,6 +103,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Complexity and Learnability and Generalization [^](#table-of-contents)
 
+- [On quantum backpropagation, information reuse, and cheating measurement collapse](https://arxiv.org/abs/2305.13362) (2023)
 - [Provably efficient machine learning for quantum many-body problems](https://arxiv.org/abs/2106.12627) (2022)
 - [Quantum machine learning beyond kernel methods](https://arxiv.org/abs/2110.13162) (2022)
 - [Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340) (2022)
@@ -134,6 +138,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Quafu-RL: The Cloud Quantum Computers based Quantum Reinforcement Learning](https://arxiv.org/abs/2305.17966) (2023)
 - [Batch Quantum Reinforcement Learning](https://arxiv.org/abs/2305.00905) (2023)
 - [Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2304.13571) (2023)
 - [Quantum deep Q learning with distributed prioritized experience replay](https://arxiv.org/abs/2304.09648) (2023)
@@ -185,6 +190,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### QAOA [^](#table-of-contents)
 
+- [Parameter Setting in Quantum Approximate Optimization of Weighted Problems](https://arxiv.org/abs/2305.15201) (2023)
 - [Information scrambling and entanglement in quantum approximate optimization algorithm circuits](https://arxiv.org/abs/2301.07445) (2023)
 - [Fermionic Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2301.10756) (2023)
 - [Scaling of the quantum approximate optimization algorithm on superconducting qubit based hardware](https://arxiv.org/abs/2202.03459) (2022)
@@ -204,6 +210,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Simulation/Chemistry [^](#table-of-contents)
 
+- [Variational Quantum Algorithms for Gibbs State Preparation](https://arxiv.org/abs/2305.17713) (2023)
+- [Variational Quantum Algorithms for Simulation of Lindblad Dynamics](https://arxiv.org/abs/2305.02815) (2023)
 - [Application of quantum-inspired generative models to small molecular datasets](https://arxiv.org/abs/2304.10867) (2023)
 - [Quantum simulation of battery materials using ionic pseudopotentials](https://arxiv.org/abs/2302.07981) (2023)
 - [Simulating Majorana zero modes on a noisy quantum processor](https://iopscience.iop.org/article/10.1088/2058-9565/acb796/meta) (2023)
