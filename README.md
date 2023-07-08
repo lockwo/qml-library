@@ -252,4 +252,4 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 ### Finance [^](#table-of-contents)
 
 - [Quantum Chebyshev Transform: Mapping, Embedding, Learning and Sampling Distributions](https://arxiv.org/abs/2306.17026) (2023)
-- 
+
