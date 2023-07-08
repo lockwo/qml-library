@@ -27,6 +27,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Quantum Simulation](#quantum-simulation-)
 - [Classification](#classification-)
 - [Error Mitigation and QML](#error-mitigation-and-qml-)
+- [Finance](#finance)
 
 ---
 
@@ -34,6 +35,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Reviews [^](#table-of-contents)
 
+- [Quantum Machine Learning on Near-Term Quantum Devices: Current State of Supervised and Unsupervised Techniques for Real-World Applications](https://arxiv.org/abs/2307.00908) (2023)
+- [A Review on Quantum Approximate Optimization Algorithm and its Variants](https://arxiv.org/abs/2306.09198) (2023)
 - [A Survey of Quantum Alternatives to Randomized Algorithms: Monte Carlo Integration and Beyond](https://arxiv.org/abs/2303.04945v1) (2023)
 - [Variational Benchmarks for Quantum Many-Body Problems](https://arxiv.org/abs/2302.04919) (2023)
 - [Optimization Applications as Quantum Performance Benchmarks](https://arxiv.org/abs/2302.02278) (2023)
@@ -76,6 +79,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Dynamics [^](#table-of-contents)
 
+- [Transition role of entangled data in quantum machine learning](https://arxiv.org/abs/2306.03481) (2023)
 - [Deep quantum neural networks form Gaussian processes](https://arxiv.org/abs/2305.09957) (2023)
 - [Deep Quantum Neural Networks are Gaussian Process](https://arxiv.org/abs/2305.12664) (2023)
 - [Effects of noise on the overparametrization of quantum neural networks](https://arxiv.org/abs/2302.05059) (2023)
@@ -103,6 +107,10 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Complexity and Learnability and Generalization [^](#table-of-contents)
 
+- [Understanding quantum machine learning also requires rethinking generalization](https://arxiv.org/abs/2306.13461) (2023)
+- [Exponential separations between classical and quantum learners](https://arxiv.org/abs/2306.16028) (2023)
+- [On the Sample Complexity of Quantum Boltzmann Machine Learning](https://arxiv.org/abs/2306.14969) (2023)
+- [Backpropagation scaling in parameterised quantum circuits](https://arxiv.org/abs/2306.14962) (2023)
 - [On quantum backpropagation, information reuse, and cheating measurement collapse](https://arxiv.org/abs/2305.13362) (2023)
 - [Provably efficient machine learning for quantum many-body problems](https://arxiv.org/abs/2106.12627) (2022)
 - [Quantum machine learning beyond kernel methods](https://arxiv.org/abs/2110.13162) (2022)
@@ -138,6 +146,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Offline Quantum Reinforcement Learning in a Conservative Manner](https://ojs.aaai.org/index.php/AAAI/article/view/25872) (2023)
 - [Quafu-RL: The Cloud Quantum Computers based Quantum Reinforcement Learning](https://arxiv.org/abs/2305.17966) (2023)
 - [Batch Quantum Reinforcement Learning](https://arxiv.org/abs/2305.00905) (2023)
 - [Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2304.13571) (2023)
@@ -190,6 +199,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### QAOA [^](#table-of-contents)
 
+- [Quantum Dropout: On and Over the Hardness of Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2203.10101) (2023)
 - [Parameter Setting in Quantum Approximate Optimization of Weighted Problems](https://arxiv.org/abs/2305.15201) (2023)
 - [Information scrambling and entanglement in quantum approximate optimization algorithm circuits](https://arxiv.org/abs/2301.07445) (2023)
 - [Fermionic Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2301.10756) (2023)
@@ -238,3 +248,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Synergetic quantum error mitigation by randomized compiling and zero-noise extrapolation for the variational quantum eigensolver](https://arxiv.org/abs/2212.11198) (2022)
 - [Experimental error mitigation using linear rescaling for variational quantum eigensolving with up to 20 qubits](https://arxiv.org/abs/2106.01264) (2021)
 - [Can Error Mitigation Improve Trainability of Noisy Variational Quantum Algorithms?](https://arxiv.org/abs/2109.01051) (2021)
+
+### Finance [^](#table-of-contents)
+
+- [Quantum Chebyshev Transform: Mapping, Embedding, Learning and Sampling Distributions](https://arxiv.org/abs/2306.17026) (2023)
+- 
