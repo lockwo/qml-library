@@ -55,6 +55,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Software [^](#table-of-contents)
 
+- [cuQuantum SDK: A High-Performance Library](https://arxiv.org/abs/2308.01999) (2023)
 - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
 - [Hierarchical architecture representations for quantum convolutional neural networks](https://arxiv.org/abs/2210.15073) (2023)
 - [TeD-Q: a tensor network enhanced distributed hybrid quantum machine learning framework](https://arxiv.org/abs/2301.05451) (2023)
@@ -146,6 +147,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Quantum Enhancements for AlphaZero](https://dl.acm.org/doi/abs/10.1145/3583133.3596302) (2023)
+- [Deep-Q Learning with Hybrid Quantum Neural Network on Solving Maze Problems](https://arxiv.org/abs/2304.10159) (2023)
 - [Offline Quantum Reinforcement Learning in a Conservative Manner](https://ojs.aaai.org/index.php/AAAI/article/view/25872) (2023)
 - [Quafu-RL: The Cloud Quantum Computers based Quantum Reinforcement Learning](https://arxiv.org/abs/2305.17966) (2023)
 - [Batch Quantum Reinforcement Learning](https://arxiv.org/abs/2305.00905) (2023)
@@ -215,6 +218,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Computational Physics [^](#table-of-contents)
 
+- [Quantum Computing for High-Energy Physics State of the Art and Challenges Summary of the QC4HEP Working Group](https://arxiv.org/abs/2307.03236) (2023)
 - [Quantum Generative Adversarial Networks For Anomaly Detection In High Energy Physics](https://arxiv.org/abs/2304.14439) (2023)
 
 
@@ -251,5 +255,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Finance [^](#table-of-contents)
 
+- [Derivative Pricing using Quantum Signal Processing](https://arxiv.org/abs/2307.14310) (2023)
+- [Applying QNLP to sentiment analysis in finance](https://arxiv.org/abs/2307.11788) (2023)
 - [Quantum Chebyshev Transform: Mapping, Embedding, Learning and Sampling Distributions](https://arxiv.org/abs/2306.17026) (2023)
-
+- [A Survey of Quantum Computing for Finance](https://arxiv.org/abs/2201.02773) (2022)
