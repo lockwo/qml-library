@@ -35,6 +35,9 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Reviews [^](#table-of-contents)
 
+- [QRAM: A Survey and Critique](https://arxiv.org/abs/2305.10310) (2023)
+- [A comprehensive survey on quantum computer usage: How many qubits are employed for what purposes?](https://arxiv.org/abs/2307.16130) (2023)
+- [Quantum-Inspired Machine Learning: a Survey](https://arxiv.org/abs/2308.11269) (2023)
 - [Quantum Machine Learning on Near-Term Quantum Devices: Current State of Supervised and Unsupervised Techniques for Real-World Applications](https://arxiv.org/abs/2307.00908) (2023)
 - [A Review on Quantum Approximate Optimization Algorithm and its Variants](https://arxiv.org/abs/2306.09198) (2023)
 - [A Survey of Quantum Alternatives to Randomized Algorithms: Monte Carlo Integration and Beyond](https://arxiv.org/abs/2303.04945v1) (2023)
@@ -46,6 +49,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Computational advantage of quantum random sampling](https://arxiv.org/abs/2206.04079) (2022)
 - [Quantum computing at the quantum advantage threshold: a down-to-business review](https://arxiv.org/abs/2203.17181) (2022)
 - [The Variational Quantum Eigensolver: A review of methods and best practices](https://www.sciencedirect.com/science/article/pii/S0370157322003118) (2022)
+- [A Survey of Quantum Computing for Finance](https://arxiv.org/abs/2201.02773) (2022)
 - [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265) (2021)
 - [Emerging quantum computing algorithms for quantum chemistry](https://arxiv.org/abs/2109.02873) (2021)
 - [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448) (2021)
@@ -55,6 +59,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Software [^](#table-of-contents)
 
+- [qgym: A Gym for Training and Benchmarking RL-Based Quantum Compilation](https://arxiv.org/abs/2308.02536) (2023)
 - [cuQuantum SDK: A High-Performance Library](https://arxiv.org/abs/2308.01999) (2023)
 - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
 - [Hierarchical architecture representations for quantum convolutional neural networks](https://arxiv.org/abs/2210.15073) (2023)
@@ -108,6 +113,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Complexity and Learnability and Generalization [^](#table-of-contents)
 
+- [On the Sample Complexity of Quantum Boltzmann Machine Learning](https://arxiv.org/abs/2306.14969) (2023)
 - [Understanding quantum machine learning also requires rethinking generalization](https://arxiv.org/abs/2306.13461) (2023)
 - [Exponential separations between classical and quantum learners](https://arxiv.org/abs/2306.16028) (2023)
 - [On the Sample Complexity of Quantum Boltzmann Machine Learning](https://arxiv.org/abs/2306.14969) (2023)
@@ -124,6 +130,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Optimization [^](#table-of-contents)
 
+- [Greedy Gradient-free Adaptive Variational Quantum Algorithms on a Noisy Intermediate Scale Quantum Computer](https://arxiv.org/abs/2306.17159) (2023)
 - [An Empirical Review of Optimization Techniques for Quantum Variational Circuits](https://arxiv.org/abs/2202.01389) (2022)
 - [Markov chain Monte Carlo enhanced variational quantum algorithms](https://iopscience.iop.org/article/10.1088/2058-9565/aca821/meta) (2022)
 - [Optimizing Quantum Variational Circuits with Deep Reinforcement Learning](https://arxiv.org/abs/2109.03188) (2022)
@@ -137,6 +144,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Circuit Ansatz [^](#table-of-contents) 
 
+- [What can we learn from quantum convolutional neural networks?](https://arxiv.org/abs/2308.16664) (2023)
 - [Hamiltonian variational ansatz without barren plateaus](https://arxiv.org/abs/2302.08529) (2023)
 - [GA4QCO: Genetic Algorithm for Quantum Circuit Optimization](https://arxiv.org/abs/2302.01303) (2023)
 - [Policy Gradient Approach to Compilation of Variational Quantum Circuits](https://arxiv.org/abs/2111.10227) (2022)
@@ -202,6 +210,9 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### QAOA [^](#table-of-contents)
 
+- [Connecting the Hamiltonian structure to the QAOA energy and Fourier landscape structure](https://arxiv.org/abs/2305.13594) (2023)
+- [Evidence of Scaling Advantage for the Quantum Approximate Optimization Algorithm on a Classically Intractable Problem](https://arxiv.org/abs/2308.02342) (2023)
+- [Sampling Frequency Thresholds for Quantum Advantage of Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2206.03579) (2023)
 - [Quantum Dropout: On and Over the Hardness of Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2203.10101) (2023)
 - [Parameter Setting in Quantum Approximate Optimization of Weighted Problems](https://arxiv.org/abs/2305.15201) (2023)
 - [Information scrambling and entanglement in quantum approximate optimization algorithm circuits](https://arxiv.org/abs/2301.07445) (2023)
@@ -224,6 +235,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Simulation/Chemistry [^](#table-of-contents)
 
+- [Quantum simulation of thermodynamics in an integrated quantum photonic processor](https://arxiv.org/abs/2201.00049) (2023)
 - [Variational Quantum Algorithms for Gibbs State Preparation](https://arxiv.org/abs/2305.17713) (2023)
 - [Variational Quantum Algorithms for Simulation of Lindblad Dynamics](https://arxiv.org/abs/2305.02815) (2023)
 - [Application of quantum-inspired generative models to small molecular datasets](https://arxiv.org/abs/2304.10867) (2023)
