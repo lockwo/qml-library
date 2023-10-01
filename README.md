@@ -113,6 +113,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Complexity and Learnability and Generalization [^](#table-of-contents)
 
+- [Statistical Complexity of Quantum Learning](https://arxiv.org/abs/2309.11617) (2023)
 - [On the Sample Complexity of Quantum Boltzmann Machine Learning](https://arxiv.org/abs/2306.14969) (2023)
 - [Understanding quantum machine learning also requires rethinking generalization](https://arxiv.org/abs/2306.13461) (2023)
 - [Exponential separations between classical and quantum learners](https://arxiv.org/abs/2306.16028) (2023)
