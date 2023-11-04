@@ -145,6 +145,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Circuit Ansatz [^](#table-of-contents) 
 
+- [A General Approach to Dropout in Quantum Neural Networks](https://arxiv.org/abs/2310.04120) (2023)
 - [What can we learn from quantum convolutional neural networks?](https://arxiv.org/abs/2308.16664) (2023)
 - [Hamiltonian variational ansatz without barren plateaus](https://arxiv.org/abs/2302.08529) (2023)
 - [GA4QCO: Genetic Algorithm for Quantum Circuit Optimization](https://arxiv.org/abs/2302.01303) (2023)
