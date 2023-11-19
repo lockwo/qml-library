@@ -59,6 +59,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Software [^](#table-of-contents)
 
+- [sQUlearn – A Python Library for Quantum Machine Learning](https://arxiv.org/abs/2311.08990) (2023)
 - [qgym: A Gym for Training and Benchmarking RL-Based Quantum Compilation](https://arxiv.org/abs/2308.02536) (2023)
 - [cuQuantum SDK: A High-Performance Library](https://arxiv.org/abs/2308.01999) (2023)
 - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
@@ -75,6 +76,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Expressivity [^](#table-of-contents)
 
+- [Expressibility-induced Concentration of Quantum Neural Tangent Kernels](https://arxiv.org/abs/2311.04965) (2023)
 - [Contextuality and inductive bias in quantum machine learning](https://arxiv.org/abs/2302.01365) (2023)
 - [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
 - [Expressibility of the alternating layered ansatz for quantum computation](https://quantum-journal.org/papers/q-2021-04-19-434/) (2021)
@@ -145,6 +147,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Circuit Ansatz [^](#table-of-contents) 
 
+- [Quantum circuit synthesis with diffusion models](https://arxiv.org/abs/2311.02041) (2023)
 - [A General Approach to Dropout in Quantum Neural Networks](https://arxiv.org/abs/2310.04120) (2023)
 - [What can we learn from quantum convolutional neural networks?](https://arxiv.org/abs/2308.16664) (2023)
 - [Hamiltonian variational ansatz without barren plateaus](https://arxiv.org/abs/2302.08529) (2023)
