@@ -215,6 +215,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### QAOA [^](#table-of-contents)
 
+- [Scaling Whole-Chip QAOA for Higher-Order Ising Spin Glass Models on Heavy-Hex Graphs](https://arxiv.org/abs/2312.00997) (2023)
 - [Connecting the Hamiltonian structure to the QAOA energy and Fourier landscape structure](https://arxiv.org/abs/2305.13594) (2023)
 - [Evidence of Scaling Advantage for the Quantum Approximate Optimization Algorithm on a Classically Intractable Problem](https://arxiv.org/abs/2308.02342) (2023)
 - [Sampling Frequency Thresholds for Quantum Advantage of Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/2206.03579) (2023)
