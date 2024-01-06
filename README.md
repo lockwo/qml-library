@@ -147,6 +147,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Circuit Ansatz [^](#table-of-contents) 
 
+- [Hierarchical Multigrid Ansatz for Variational Quantum Algorithms](https://arxiv.org/abs/2312.15048) (2023)
 - [Quantum circuit synthesis with diffusion models](https://arxiv.org/abs/2311.02041) (2023)
 - [A General Approach to Dropout in Quantum Neural Networks](https://arxiv.org/abs/2310.04120) (2023)
 - [What can we learn from quantum convolutional neural networks?](https://arxiv.org/abs/2308.16664) (2023)
