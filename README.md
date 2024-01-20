@@ -35,6 +35,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Reviews [^](#table-of-contents)
 
+- [Quantum Optimization: Potential, Challenges, and the Path Forward](Quantum Optimization: Potential, Challenges, and the Path Forward) (2023)
 - [QRAM: A Survey and Critique](https://arxiv.org/abs/2305.10310) (2023)
 - [A comprehensive survey on quantum computer usage: How many qubits are employed for what purposes?](https://arxiv.org/abs/2307.16130) (2023)
 - [Quantum-Inspired Machine Learning: a Survey](https://arxiv.org/abs/2308.11269) (2023)
@@ -101,6 +102,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Trainability [^](#table-of-contents)
 
+- [Efficient estimation of trainability for variational quantum circuits](https://arxiv.org/abs/2302.04649) (2023)
 - [The Unified Effect of Data Encoding, Ansatz Expressibility and Entanglement on the Trainability of HQNNs](https://arxiv.org/abs/2305.04504) (2023)
 - [Trainability barriers and opportunities in quantum generative modeling](https://arxiv.org/abs/2305.02881) (2023)
 - [Trainability Enhancement of Parameterized Quantum Circuits via Reduced-Domain Parameter Initialization](https://arxiv.org/abs/2302.06858) (2023)
@@ -115,6 +117,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Complexity and Learnability and Generalization [^](#table-of-contents)
 
+- [Generalization despite overfitting in quantum machine learning models](https://arxiv.org/abs/2209.05523) (2023)
 - [Statistical Complexity of Quantum Learning](https://arxiv.org/abs/2309.11617) (2023)
 - [On the Sample Complexity of Quantum Boltzmann Machine Learning](https://arxiv.org/abs/2306.14969) (2023)
 - [Understanding quantum machine learning also requires rethinking generalization](https://arxiv.org/abs/2306.13461) (2023)
@@ -161,6 +164,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Quantum Advantage Actor-Critic for Reinforcement Learning](https://arxiv.org/abs/2401.07043) (2024)
+- [On Quantum Natural Policy Gradients](https://arxiv.org/abs/2401.08307) (2024)
 - [Quantum Enhancements for AlphaZero](https://dl.acm.org/doi/abs/10.1145/3583133.3596302) (2023)
 - [Deep-Q Learning with Hybrid Quantum Neural Network on Solving Maze Problems](https://arxiv.org/abs/2304.10159) (2023)
 - [Offline Quantum Reinforcement Learning in a Conservative Manner](https://ojs.aaai.org/index.php/AAAI/article/view/25872) (2023)
@@ -201,6 +206,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Generative QML [^](#table-of-contents)
 
+- [Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866) (2023)
 - [A Framework for Demonstrating Practical Quantum Advantage: Racing Quantum against Classical Generative Models](https://arxiv.org/abs/2303.15626) (2023)
 - [Generative Invertible Quantum Neural Networks](https://arxiv.org/abs/2302.12906) (2023)
 - [A performance characterization of quantum generative models](https://arxiv.org/abs/2301.09363) (2023)
