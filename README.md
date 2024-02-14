@@ -164,6 +164,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability](https://arxiv.org/abs/2401.11555) (2024)
 - [Quantum Advantage Actor-Critic for Reinforcement Learning](https://arxiv.org/abs/2401.07043) (2024)
 - [On Quantum Natural Policy Gradients](https://arxiv.org/abs/2401.08307) (2024)
 - [Quantum Enhancements for AlphaZero](https://dl.acm.org/doi/abs/10.1145/3583133.3596302) (2023)
