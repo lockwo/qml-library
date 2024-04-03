@@ -102,6 +102,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Trainability [^](#table-of-contents)
 
+- [Noise-induced shallow circuits and absence of barren plateaus](https://arxiv.org/abs/2403.13927) (2024)
 - [Efficient estimation of trainability for variational quantum circuits](https://arxiv.org/abs/2302.04649) (2023)
 - [The Unified Effect of Data Encoding, Ansatz Expressibility and Entanglement on the Trainability of HQNNs](https://arxiv.org/abs/2305.04504) (2023)
 - [Trainability barriers and opportunities in quantum generative modeling](https://arxiv.org/abs/2305.02881) (2023)
