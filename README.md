@@ -37,7 +37,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 - [Quantum many-body simulations on digital quantum computers: State-of-the-art and future challenges](https://www.nature.com/articles/s41467-024-46402-9) (2024)
 - [A Review of Barren Plateaus in Variational Quantum Computing](https://arxiv.org/abs/2405.00781) (2024)
-- [Quantum Optimization: Potential, Challenges, and the Path Forward](Quantum Optimization: Potential, Challenges, and the Path Forward) (2023)
+- [Quantum Optimization: Potential, Challenges, and the Path Forward](https://arxiv.org/abs/2312.02279) (2023)
 - [QRAM: A Survey and Critique](https://arxiv.org/abs/2305.10310) (2023)
 - [A comprehensive survey on quantum computer usage: How many qubits are employed for what purposes?](https://arxiv.org/abs/2307.16130) (2023)
 - [Quantum-Inspired Machine Learning: a Survey](https://arxiv.org/abs/2308.11269) (2023)
