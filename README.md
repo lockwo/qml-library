@@ -1,4 +1,4 @@
-# Quantum Machine Learning (QML) Library
+# Quantum Machine Learning (QML) Library (and some QC)
 
 A curated list of papers, blogs, and research publications in the field of Quantum Machine Learning. Inspired by the no longer updated: https://github.com/ericardomuten/qml-vqa-library. Open a PR if you want to add to it! All links should be to open access publications. If the published version is not open access, then it will link to arXiv. If the publication is not open access and it is not on arXiv then I will not be putting it in this list.
 
@@ -35,6 +35,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Reviews [^](#table-of-contents)
 
+- [Quantum many-body simulations on digital quantum computers: State-of-the-art and future challenges](https://www.nature.com/articles/s41467-024-46402-9) (2024)
+- [A Review of Barren Plateaus in Variational Quantum Computing](https://arxiv.org/abs/2405.00781) (2024)
 - [Quantum Optimization: Potential, Challenges, and the Path Forward](Quantum Optimization: Potential, Challenges, and the Path Forward) (2023)
 - [QRAM: A Survey and Critique](https://arxiv.org/abs/2305.10310) (2023)
 - [A comprehensive survey on quantum computer usage: How many qubits are employed for what purposes?](https://arxiv.org/abs/2307.16130) (2023)
@@ -60,6 +62,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Software [^](#table-of-contents)
 
+- [Qiskit-Torch-Module: Fast Prototyping of Quantum Neural Networks](https://arxiv.org/abs/2404.06314) (2024)
 - [sQUlearn – A Python Library for Quantum Machine Learning](https://arxiv.org/abs/2311.08990) (2023)
 - [qgym: A Gym for Training and Benchmarking RL-Based Quantum Compilation](https://arxiv.org/abs/2308.02536) (2023)
 - [cuQuantum SDK: A High-Performance Library](https://arxiv.org/abs/2308.01999) (2023)
@@ -77,6 +80,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Expressivity [^](#table-of-contents)
 
+- [Expressiveness of Commutative Quantum Circuits: A Probabilistic Approach](https://arxiv.org/abs/2404.19727) (2024)
 - [Expressibility-induced Concentration of Quantum Neural Tangent Kernels](https://arxiv.org/abs/2311.04965) (2023)
 - [Contextuality and inductive bias in quantum machine learning](https://arxiv.org/abs/2302.01365) (2023)
 - [Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability](https://link.springer.com/article/10.1007/s42484-021-00038-w) (2021)
@@ -88,6 +92,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Dynamics [^](#table-of-contents)
 
+- [Revealing the working mechanism of quantum neural networks by mutual information](https://arxiv.org/abs/2404.19312) (2024)
 - [Transition role of entangled data in quantum machine learning](https://arxiv.org/abs/2306.03481) (2023)
 - [Deep quantum neural networks form Gaussian processes](https://arxiv.org/abs/2305.09957) (2023)
 - [Deep Quantum Neural Networks are Gaussian Process](https://arxiv.org/abs/2305.12664) (2023)
@@ -137,6 +142,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Optimization [^](#table-of-contents)
 
+- [Symmetry-guided gradient descent for quantum neural networks](https://arxiv.org/abs/2404.06108) (2024)
+- [Guided-SPSA: Simultaneous Perturbation Stochastic Approximation assisted by the Parameter Shift Rule](https://arxiv.org/abs/2404.15751) (2024)
 - [Greedy Gradient-free Adaptive Variational Quantum Algorithms on a Noisy Intermediate Scale Quantum Computer](https://arxiv.org/abs/2306.17159) (2023)
 - [An Empirical Review of Optimization Techniques for Quantum Variational Circuits](https://arxiv.org/abs/2202.01389) (2022)
 - [Markov chain Monte Carlo enhanced variational quantum algorithms](https://iopscience.iop.org/article/10.1088/2058-9565/aca821/meta) (2022)
@@ -165,6 +172,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Model-based Offline Quantum Reinforcement Learning](https://arxiv.org/abs/2404.10017) (2024)
+- [Warm-Start Variational Quantum Policy Iteration](https://arxiv.org/abs/2404.10546) (2024)
 - [VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability](https://arxiv.org/abs/2401.11555) (2024)
 - [Quantum Advantage Actor-Critic for Reinforcement Learning](https://arxiv.org/abs/2401.07043) (2024)
 - [On Quantum Natural Policy Gradients](https://arxiv.org/abs/2401.08307) (2024)
@@ -250,6 +259,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Simulation/Chemistry [^](#table-of-contents)
 
+- [Improved Accuracy for Trotter Simulations Using Chebyshev Interpolation](https://arxiv.org/abs/2212.14144) (2024)
 - [Quantum simulation of thermodynamics in an integrated quantum photonic processor](https://arxiv.org/abs/2201.00049) (2023)
 - [Variational Quantum Algorithms for Gibbs State Preparation](https://arxiv.org/abs/2305.17713) (2023)
 - [Variational Quantum Algorithms for Simulation of Lindblad Dynamics](https://arxiv.org/abs/2305.02815) (2023)
@@ -282,6 +292,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Finance [^](#table-of-contents)
 
+- [Quantum Risk Analysis of Financial Derivatives](https://arxiv.org/abs/2404.10088) (2024)
 - [Derivative Pricing using Quantum Signal Processing](https://arxiv.org/abs/2307.14310) (2023)
 - [Applying QNLP to sentiment analysis in finance](https://arxiv.org/abs/2307.11788) (2023)
 - [Quantum Chebyshev Transform: Mapping, Embedding, Learning and Sampling Distributions](https://arxiv.org/abs/2306.17026) (2023)
