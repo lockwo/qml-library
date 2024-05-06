@@ -27,7 +27,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Quantum Simulation](#quantum-simulation-)
 - [Classification](#classification-)
 - [Error Mitigation and QML](#error-mitigation-and-qml-)
-- [Finance](#finance)
+- [Finance](#finance-)
+- [Hardware](#hardware-)
 
 ---
 
@@ -142,6 +143,9 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Optimization [^](#table-of-contents)
 
+= [Local minima in quantum systems](https://arxiv.org/abs/2309.16596) (2024)
+- [On Optimizing Hyperparameters for Quantum Neural Networks](https://arxiv.org/abs/2403.18579) (2024)
+- [Optimizing Variational Quantum Algorithms with qBang: Efficiently Interweaving Metric and Momentum to Navigate Flat Energy Landscapes](https://arxiv.org/abs/2304.13882) (2024)
 - [Symmetry-guided gradient descent for quantum neural networks](https://arxiv.org/abs/2404.06108) (2024)
 - [Guided-SPSA: Simultaneous Perturbation Stochastic Approximation assisted by the Parameter Shift Rule](https://arxiv.org/abs/2404.15751) (2024)
 - [Greedy Gradient-free Adaptive Variational Quantum Algorithms on a Noisy Intermediate Scale Quantum Computer](https://arxiv.org/abs/2306.17159) (2023)
@@ -259,6 +263,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Simulation/Chemistry [^](#table-of-contents)
 
+- [Benchmarking digital quantum simulations and optimization above hundreds of qubits using quantum critical dynamics](https://arxiv.org/abs/2404.08053) (2024)
 - [Improved Accuracy for Trotter Simulations Using Chebyshev Interpolation](https://arxiv.org/abs/2212.14144) (2024)
 - [Quantum simulation of thermodynamics in an integrated quantum photonic processor](https://arxiv.org/abs/2201.00049) (2023)
 - [Variational Quantum Algorithms for Gibbs State Preparation](https://arxiv.org/abs/2305.17713) (2023)
@@ -276,6 +281,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Classification [^](#table-of-contents)
 
+- [Classification of the Fashion-MNIST Dataset on a Quantum Computer](https://arxiv.org/abs/2403.02405) (2024)
+- [Quantum optical classifier with superexponential speedup](https://arxiv.org/abs/2404.15266) (2024)
 - [Practical overview of image classification with tensor-network quantum circuits](https://www.nature.com/articles/s41598-023-30258-y) (2023)
 - [Quantum Methods for Neural Networks and Application to Medical Image Classification](https://quantum-journal.org/papers/q-2022-12-22-881/) (2022)
 - [VSQL: Variational Shadow Quantum Learning for Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17016) (2021)
@@ -297,3 +304,9 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 - [Applying QNLP to sentiment analysis in finance](https://arxiv.org/abs/2307.11788) (2023)
 - [Quantum Chebyshev Transform: Mapping, Embedding, Learning and Sampling Distributions](https://arxiv.org/abs/2306.17026) (2023)
 - [A Survey of Quantum Computing for Finance](https://arxiv.org/abs/2201.02773) (2022)
+
+### Hardware [^](#table-of-contents)
+
+- [Limitations of Linear Cross-Entropy as a Measure for Quantum Advantage](https://arxiv.org/abs/2112.01657) (2024)
+- [Scalability of quantum error mitigation techniques: from utility to advantage](https://arxiv.org/abs/2403.13542) (2024)
+- [A Quantum Engineer's Guide to Superconducting Qubits](https://arxiv.org/abs/1904.06560) (2021)
