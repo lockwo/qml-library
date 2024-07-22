@@ -176,6 +176,12 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [Hype or Heuristic? Quantum Reinforcement Learning for Join Order Optimisation](https://arxiv.org/abs/2405.07770) (2024)
+- [Hamiltonian-based Quantum Reinforcement Learning for Neural Combinatorial Optimization](https://arxiv.org/abs/2405.07790) (2024)
+- [A Study on Optimization Techniques for Variational Quantum Circuits in Reinforcement Learning](https://arxiv.org/abs/2405.12354) (2024)
+- [QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train](https://arxiv.org/abs/2407.06103v1) (2024)
+- [On Quantum Natural Policy Gradients](https://arxiv.org/abs/2401.08307) (2024)
+- [Trainability issues in quantum policy gradients](https://arxiv.org/abs/2406.09614v1) (2024)
 - [Model-based Offline Quantum Reinforcement Learning](https://arxiv.org/abs/2404.10017) (2024)
 - [Warm-Start Variational Quantum Policy Iteration](https://arxiv.org/abs/2404.10546) (2024)
 - [VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability](https://arxiv.org/abs/2401.11555) (2024)
