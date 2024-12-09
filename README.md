@@ -93,6 +93,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Dynamics [^](#table-of-contents)
 
+- [Learning complexity gradually in quantum machine learning models](https://arxiv.org/abs/2411.11954) (2024)
 - [Revealing the working mechanism of quantum neural networks by mutual information](https://arxiv.org/abs/2404.19312) (2024)
 - [Transition role of entangled data in quantum machine learning](https://arxiv.org/abs/2306.03481) (2023)
 - [Deep quantum neural networks form Gaussian processes](https://arxiv.org/abs/2305.09957) (2023)
