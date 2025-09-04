@@ -290,6 +290,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Classification [^](#table-of-contents)
 
+- [Practical insights on the effect of different encodings, ansätze and measurements in quantum and hybrid convolutional neural networks](https://arxiv.org/abs/2506.20355) (2025)
 - [Classification of the Fashion-MNIST Dataset on a Quantum Computer](https://arxiv.org/abs/2403.02405) (2024)
 - [Quantum optical classifier with superexponential speedup](https://arxiv.org/abs/2404.15266) (2024)
 - [Practical overview of image classification with tensor-network quantum circuits](https://www.nature.com/articles/s41598-023-30258-y) (2023)
