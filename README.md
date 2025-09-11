@@ -109,6 +109,8 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 #### Trainability [^](#table-of-contents)
 
+- [Breaking Through Barren Plateaus: Reinforcement Learning Initializations for Deep Variational Quantum Circuits](https://arxiv.org/abs/2508.18514) (2025)
+- [Can Classical Initialization Help Variational Quantum Circuits Escape the Barren Plateau?](https://arxiv.org/abs/2508.18497) (2025)
 - [Noise-induced shallow circuits and absence of barren plateaus](https://arxiv.org/abs/2403.13927) (2024)
 - [Efficient estimation of trainability for variational quantum circuits](https://arxiv.org/abs/2302.04649) (2023)
 - [The Unified Effect of Data Encoding, Ansatz Expressibility and Entanglement on the Trainability of HQNNs](https://arxiv.org/abs/2305.04504) (2023)
@@ -177,6 +179,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Quantum Reinforcement Learning [^](#table-of-contents)
 
+- [It's-A-Me, Quantum Mario: Scalable Quantum Reinforcement Learning with Multi-Chip Ensembles](https://arxiv.org/abs/2509.00713) (2025)
 - [PPO-Q: Proximal Policy Optimization with Parametrized Quantum Policies or Values](https://arxiv.org/abs/2501.07085) (2025)
 - [Robustness and Generalization in Quantum Reinforcement Learning via Lipschitz Regularization](https://arxiv.org/abs/2410.21117) (2024)
 - [Hype or Heuristic? Quantum Reinforcement Learning for Join Order Optimisation](https://arxiv.org/abs/2405.07770) (2024)
