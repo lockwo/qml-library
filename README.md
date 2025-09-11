@@ -146,7 +146,7 @@ Note: the date is associated with the latest update/publication (i.e. how you wo
 
 ### Optimization [^](#table-of-contents)
 
-= [Local minima in quantum systems](https://arxiv.org/abs/2309.16596) (2024)
+- [Local minima in quantum systems](https://arxiv.org/abs/2309.16596) (2024)
 - [On Optimizing Hyperparameters for Quantum Neural Networks](https://arxiv.org/abs/2403.18579) (2024)
 - [Optimizing Variational Quantum Algorithms with qBang: Efficiently Interweaving Metric and Momentum to Navigate Flat Energy Landscapes](https://arxiv.org/abs/2304.13882) (2024)
 - [Symmetry-guided gradient descent for quantum neural networks](https://arxiv.org/abs/2404.06108) (2024)
